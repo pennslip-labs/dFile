@@ -208,7 +208,7 @@ For contributions, feature requests, or bug reports, please open an issue or pul
 
 ## Author
 
-**Shamar Pennant** (slipnut44)
+**Shamar Pennant**
 
 ---
 
